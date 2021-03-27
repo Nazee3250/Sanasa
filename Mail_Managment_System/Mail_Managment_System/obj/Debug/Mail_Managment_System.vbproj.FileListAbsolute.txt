@@ -1,0 +1,16 @@
+c:\users\nazee\documents\visual studio 2015\Projects\Mail_Managment_System\Mail_Managment_System\bin\Debug\Mail_Managment_System.exe.config
+C:\Users\Nazee\Documents\Visual Studio 2015\Projects\Mail_Managment_System\Mail_Managment_System\bin\Debug\Mail_Managment_System.exe
+C:\Users\Nazee\Documents\Visual Studio 2015\Projects\Mail_Managment_System\Mail_Managment_System\bin\Debug\Mail_Managment_System.pdb
+C:\Users\Nazee\Documents\Visual Studio 2015\Projects\Mail_Managment_System\Mail_Managment_System\bin\Debug\Mail_Managment_System.xml
+C:\Users\Nazee\Documents\Visual Studio 2015\Projects\Mail_Managment_System\Mail_Managment_System\obj\Debug\Mail_Managment_System.vbprojResolveAssemblyReference.cache
+C:\Users\Nazee\Documents\Visual Studio 2015\Projects\Mail_Managment_System\Mail_Managment_System\obj\Debug\Mail_Managment_System.HomePage.resources
+C:\Users\Nazee\Documents\Visual Studio 2015\Projects\Mail_Managment_System\Mail_Managment_System\obj\Debug\Mail_Managment_System.System_Login.resources
+C:\Users\Nazee\Documents\Visual Studio 2015\Projects\Mail_Managment_System\Mail_Managment_System\obj\Debug\Mail_Managment_System.Resources.resources
+C:\Users\Nazee\Documents\Visual Studio 2015\Projects\Mail_Managment_System\Mail_Managment_System\obj\Debug\Mail_Managment_System.vbproj.GenerateResource.Cache
+C:\Users\Nazee\Documents\Visual Studio 2015\Projects\Mail_Managment_System\Mail_Managment_System\obj\Debug\Mail_Managment_System.exe
+C:\Users\Nazee\Documents\Visual Studio 2015\Projects\Mail_Managment_System\Mail_Managment_System\obj\Debug\Mail_Managment_System.xml
+C:\Users\Nazee\Documents\Visual Studio 2015\Projects\Mail_Managment_System\Mail_Managment_System\obj\Debug\Mail_Managment_System.pdb
+C:\Users\Nazee\Documents\Visual Studio 2015\Projects\Mail_Managment_System\Mail_Managment_System\bin\Debug\MySql.Data.dll
+C:\Users\Nazee\Documents\Visual Studio 2015\Projects\Mail_Managment_System\Mail_Managment_System\bin\Debug\Google.Protobuf.dll
+C:\Users\Nazee\Documents\Visual Studio 2015\Projects\Mail_Managment_System\Mail_Managment_System\bin\Debug\MySql.Data.xml
+C:\Users\Nazee\Documents\Visual Studio 2015\Projects\Mail_Managment_System\Mail_Managment_System\obj\Debug\Mail_Managment_System.Scan.resources
